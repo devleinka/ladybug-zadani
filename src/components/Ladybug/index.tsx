@@ -7,7 +7,7 @@ export enum Direction {
   left = 'left'
 }
 
-interface ILadybug
+export interface ILadybug
 {
   posX: number;
   posY: number;
